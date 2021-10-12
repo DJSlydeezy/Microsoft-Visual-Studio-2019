@@ -1,0 +1,9 @@
+
+xdebug.mode=debug
+xdebug.start_with_request=yes
+xdebug.discover_client_host=true
+xdebug.remote_cookie_expire_time = 3600
+xdebug.client_host=localhost
+xdebug.client_port = 9003
+xdebug.idekey=VSCODE
+—
